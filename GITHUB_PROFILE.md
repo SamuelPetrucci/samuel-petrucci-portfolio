@@ -32,7 +32,7 @@ Create/replace the README in the special repo: `SamuelPetrucci/SamuelPetrucci`
 - **Ops systems** — CRMs, agent desks, approvals, content pipelines
 - **Client platforms** — insurance, nonprofit, real estate, and contracting sites
 - **AI products** — RAG knowledge bases, talent matching, compliance prototypes
-- **Cloud & data** — AWS, Python pipelines, Streamlit analytics, automation with n8n
+- **Cloud & data** — AWS & GCP APIs, Python pipelines, Streamlit analytics, automation with n8n
 
 ### Featured work
 | Project | What it does |
@@ -44,7 +44,7 @@ Create/replace the README in the special repo: `SamuelPetrucci/SamuelPetrucci`
 | [Senior Research](https://github.com/SamuelPetrucci/Senior-Research-Project.github.io) | YOLOv8 vs v11 weapon detection study |
 
 ### Stack
-`Python` `TypeScript` `Next.js` `React` `AWS` `Supabase` `SQL` `n8n` `Docker` `OpenAI` `Streamlit`
+`Python` `TypeScript` `Next.js` `React` `AWS` `GCP` `Supabase` `SQL` `n8n` `Docker` `OpenAI` `Streamlit`
 
 ### Certifications
 AWS Cloud Practitioner · AWS Data Engineering — Pluralsight training complete

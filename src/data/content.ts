@@ -33,6 +33,7 @@ export const skills: Skill[] = [
     ],
   },
   { name: "AWS", icons: [{ src: "/skills/amazonaws.svg", alt: "AWS" }] },
+  { name: "GCP", icons: [{ src: "/skills/googlecloud.svg", alt: "Google Cloud" }] },
   { name: "Supabase", icons: [{ src: "/skills/supabase.svg", alt: "Supabase" }] },
   { name: "SQL", icons: [{ src: "/skills/postgresql.svg", alt: "PostgreSQL / SQL" }] },
   { name: "n8n", icons: [{ src: "/skills/n8n.svg", alt: "n8n" }] },

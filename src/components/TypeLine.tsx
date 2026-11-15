@@ -6,6 +6,7 @@ const phrases = [
   "Cloud infrastructure",
   "AI automation",
   "Ops dashboards",
+  "GCP & AWS APIs",
   "Client websites",
   "Data pipelines",
 ];
